@@ -1,3 +1,11 @@
+/*The SIR (Susceptible-Infected-Recovered) model is a widely-used mathematical framework for understanding and predicting the spread of infectious diseases within a population.
+It divides the population into three distinct groups:
+
+Susceptible (S): Individuals who can contract the disease.
+Infected (I): Individuals currently infected and capable of transmitting the disease.
+Recovered (R): Individuals who have recovered from the disease and are no longer susceptible or infectious.*/
+
+
 import numpy as np 
 import matplotlib.pyplot as plt 
 import seaborn as sns 
